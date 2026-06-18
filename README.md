@@ -16,7 +16,7 @@ My focus is building engineering applications that solve real-world construction
 * BIM & IFC Processing
 * xBIM Toolkit
 * Helix Toolkit 3D Visualization
-* SQLite & Entity Framework Core
+* SQLite &  SQLServer & Entity Framework Core
 * Genetic Algorithms & Optimization
 
 ---
@@ -75,7 +75,7 @@ IFC | xBIM | AutoCAD | Tekla Structures
 
 ### Database
 
-SQLite | Entity Framework Core
+SQLite & SQLServer | Entity Framework Core
 
 ### Tools
 
