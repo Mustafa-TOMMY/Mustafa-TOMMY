@@ -1,16 +1,103 @@
-## Hi there 👋
+# Hi, I'm Mustafa Abdelhamid 
 
-<!--
-**Mustafa-TOMMY/Mustafa-TOMMY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Civil Engineer | BIM Enthusiast | .NET Developer
 
-Here are some ideas to get you started:
+I am a Civil Engineer with experience in structural detailing and construction projects, currently expanding my expertise into software development for the AEC industry.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My focus is building engineering applications that solve real-world construction problems using modern software technologies.
+
+---
+
+##  Current Focus
+
+* WPF Desktop Applications
+* .NET 8 & C#
+* MVVM Architecture
+* BIM & IFC Processing
+* xBIM Toolkit
+* Helix Toolkit 3D Visualization
+* SQLite & Entity Framework Core
+* Genetic Algorithms & Optimization
+
+---
+
+##  Featured Project
+
+### Mobile Crane Path Optimizer for Precast Buildings
+
+A desktop application that helps engineers determine optimal mobile crane positions for lifting precast elements.
+
+**Key Features:**
+
+* IFC Model Analysis
+* Crane Placement Optimization
+* Genetic Algorithm Engine
+* Load Chart Validation
+* 3D Visualization
+* Construction Site Constraints Management
+
+**Tech Stack:**
+C# • .NET 8 • WPF • MVVM • SQLite • EF Core • xBIM • Helix Toolkit
+
+---
+
+##  Experience
+
+### Steel Detailer Engineer
+
+* Industrial Buildings
+* PEB Structures
+* Stadium Projects
+* Infrastructure Projects
+
+### Software Development
+
+* Desktop Application Development
+* BIM Software Solutions
+* Engineering Automation
+* Optimization Algorithms
+
+---
+
+##  Technologies
+
+### Programming
+
+C# | .NET | SQL
+
+### Desktop Development
+
+WPF | MVVM | XAML
+
+### BIM & Engineering
+
+IFC | xBIM | AutoCAD | Tekla Structures
+
+### Database
+
+SQLite | Entity Framework Core
+
+### Tools
+
+Git | GitHub | Visual Studio
+
+---
+
+##  Currently Learning
+
+* Advanced WPF
+* Clean Architecture
+* Design Patterns
+* AI Applications in Construction
+* High Performance 3D Rendering
+
+---
+
+##  Connect With Me
+
+* LinkedIn: [www.linkedin.com/in/mustafa-abdelhamid-mustafa](http://www.linkedin.com/in/mustafa-abdelhamid)
+* Email: [mustafaabdelhamid.aec@gmail.com](mailto:your-email@example.com)
+
+---
+
+> Building software for engineers, not just software.
