@@ -1,6 +1,6 @@
 # Hi, I'm Mustafa Abdelhamid 
 
-### Civil Engineer | BIM Enthusiast | .NET Developer
+### Civil Engineer | BIM Developer | .NET Developer
 
 I am a Civil Engineer with experience in structural detailing and construction projects, currently expanding my expertise into software development for the AEC industry.
 
